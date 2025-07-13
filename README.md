@@ -133,7 +133,7 @@ graph TB
 
 ### 🎯 Gallery de Démonstration
 
-> **📋 Note pour le professeur :** Toutes les captures d'écran suivantes prouvent le bon fonctionnement de l'infrastructure déployée et le travail collaboratif de l'équipe IPSSI.
+> **📋 Note pour le professeur :** Toutes les captures d'écran suivantes prouvent le bon fonctionnement de l'infrastructure déployée et le travail collaboratif de l'équipe IPSSI Nice.
 
 #### 1️⃣ Structure du Projet Terraform
 ![Structure du Projet](docs/screenshots/01-structure-projet.png)
