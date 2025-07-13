@@ -62,8 +62,8 @@
 
 Le projet a été développé de manière coordonnée sous la direction de **FIENI Dannie Innocent Junior** en tant que chef de projet. L'équipe a travaillé en collaboration étroite, avec une répartition claire des responsabilités techniques :
 
-- **🎯 Chef de Projet (FIENI Dannie)** : Coordination générale, développement sur machine principale, intégration des modules, documentation complète
-- **🌐 Expertise Réseau (Kaouthar Brazi)** : Conception architecture réseau, configuration sécurité NSG, planification VNet
+- **🎯 Chef de Projet (FIENI Dannie)** : Coordination générale, , configuration sécurité NSG, développement sur machine principale, intégration des modules, documentation complète
+- **🌐 Expertise Réseau (Kaouthar Brazi)** : Conception architecture réseau, planification VNet
 - **🗄️ Expertise Base de Données (Amine Karassane)** : Architecture de données, configuration MySQL, stratégie de stockage
 
 *Note : Le développement a été centralisé sur la machine du chef de projet pour assurer la cohérence et la stabilité de l'environnement de développement.*
