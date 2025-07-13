@@ -44,7 +44,7 @@
 <sub>📧 dij.fieni@ecole-ipssi.net</sub>
 </td>
 <td align="center">
-<img src="https://github.com/identicons/Kaouthar-Brazi.png" width="100px;" alt="Kaouthar Brazi"/><br>
+<img src="https://github.com/kaoutaar.png" width="100px;" alt="Kaouthar Brazi"/><br>
 <sub><b>🌐 Kaouthar Brazi</b></sub><br>
 <sub>Spécialiste Réseau & Sécurité</sub><br>
 <sub>📧 k.brazi@ecole-ipssi.net</sub>
