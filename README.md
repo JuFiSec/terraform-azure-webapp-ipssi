@@ -399,15 +399,15 @@ Le script de tests couvre :
 ```bash
 # Nombre de commits
 git rev-list --all --count
-# Résultat: 12+ commits
+# Résultat: 8 commits
 
 # Nombre de fichiers
 find . -name "*.tf" -o -name "*.md" | wc -l
-# Résultat: 18+ fichiers
+# Résultat: 15 fichiers
 
 # Lignes de code
 find . -name "*.tf" -exec cat {} \; | wc -l
-# Résultat: 650+ lignes
+# Résultat: 622 lignes
 ```
 
 ---
