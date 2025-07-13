@@ -14,7 +14,7 @@ ssh_public_key_path  = "~/.ssh/id_rsa.pub"
 
 # Configuration MySQL
 mysql_admin_username = "mysqladmin"
-mysql_admin_password = "VotreMotDePasseSecurise123!"
+mysql_admin_password = "IPSSI2025@Nice"
 
 # Tags personnalisés (optionnel)
 common_tags = {
