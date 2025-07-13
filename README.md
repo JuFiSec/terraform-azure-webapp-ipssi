@@ -211,17 +211,7 @@ terraform-azure-webapp-ipssi/
 │   └── outputs.tf                       #   └─ Sorties BDD
 ├── 📁 docs/                             # 📚 Documentation
 │   └── screenshots/                     #   └─ Captures d'écran
-│       ├── 01-structure-projet.png      #       ├─ Structure projet
-│       ├── 02-terraform-validate.png    #       ├─ Validation Terraform
-│       ├── 03-terraform-plan.png        #       ├─ Plan déploiement
-│       ├── 04-terraform-outputs.png     #       ├─ Sorties Terraform
-│       ├── 05-ressources-azure.png      #       ├─ Ressources Azure
-│       ├── 06-site-web-fonctionnel*.png #       ├─ Site web IPSSI
-│       ├── 07-test-connectivite.png     #       ├─ Tests connectivité
-│       ├── 08-connexion-ssh*.png        #       ├─ Connexion SSH
-│       ├── 12-portail-azure*.png        #       ├─ Portail Azure
-│       └── Schema-architecture-*.png    #       └─ Schémas architecture
-├── 📄 setup-complete.sh                 # Script de configuration automatique
+├── 📄 deploy.sh                         # Script de deploiement 
 ├── 📄 test-connectivity.sh              # Script de tests de connectivité
 ├── 📄 .gitignore                        # Fichiers à ignorer par Git
 └── 📄 README.md                         # Documentation principale
