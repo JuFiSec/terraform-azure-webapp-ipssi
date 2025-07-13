@@ -50,7 +50,7 @@
 <sub>📧 k.brazi@ecole-ipssi.net</sub>
 </td>
 <td align="center">
-<img src="https://github.com/identicons/Amine-Karassane.png" width="100px;" alt="Amine Karassane"/><br>
+<img src="https://github.com/Amine-krsn.png" width="100px;" alt="Amine Karassane"/><br>
 <sub><b>🗄️ Amine Karassane</b></sub><br>
 <sub>Expert Base de Données</sub><br>
 <sub>📧 a.karassane@ecole-ipssi.net</sub>
