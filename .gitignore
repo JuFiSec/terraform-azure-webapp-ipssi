@@ -1,0 +1,37 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+!terraform.tfvars.example
+.terraform/
+.terraform.lock.hcl
+terraform.tfplan
+tfplan
+
+# Logs
+*.log
+deployment-*.log
+deployment-*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Clés SSH (sécurité)
+*.pem
+*.key
+id_rsa*
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
+
+# Azure
+.azure/

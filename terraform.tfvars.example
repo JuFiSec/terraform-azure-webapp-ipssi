@@ -1,0 +1,28 @@
+# terraform.tfvars.example
+# Copiez ce fichier vers terraform.tfvars et modifiez les valeurs
+# ATTENTION : Ne commitez jamais le fichier terraform.tfvars sur Git !
+
+# Configuration générale
+location     = "France Central"
+environment  = "dev"
+project_name = "webapp-ipssi"
+
+# Configuration de la VM
+vm_size              = "Standard_B2s"
+admin_username       = "adminuser"
+ssh_public_key_path  = "~/.ssh/id_rsa.pub"
+
+# Configuration MySQL
+mysql_admin_username = "mysqladmin"
+mysql_admin_password = "VotreMotDePasseSecurise123!"
+
+# Tags personnalisés (optionnel)
+common_tags = {
+  Environment = "dev"
+  Project     = "webapp-ipssi"
+  Team        = "M1-Cybersecurite-IPSSI"
+  Chef        = "FIENI-DANNIE"
+  Reseau      = "Kaouthar-Brazi"
+  Database    = "Amine-Karassane"
+  School      = "IPSSI-Nice"
+}
