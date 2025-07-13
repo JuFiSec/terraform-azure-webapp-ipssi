@@ -178,10 +178,6 @@ graph TB
 ![Portail Azure v2](docs/screenshots/12-portail-azure2.png)
 *Interface du portail Azure montrant toutes les ressources déployées*
 
-#### 🔟 Schéma d'Architecture Technique Azure
-![Schéma Architecture](docs/screenshots/Schema-architecture-rg-webapp-ipssi-dev.png)
-*Diagramme détaillé de l'architecture généré automatiquement par Azure montrant tous les composants, connexions réseau et flux de données de l'infrastructure déployée*
-
 ---
 
 ## 📁 Structure du Projet
