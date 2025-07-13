@@ -38,7 +38,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/identicons/FIENI-DANNIE.png" width="100px;" alt="FIENI DANNIE"/><br>
+<img src="https://github.com/JuFiSec.png" width="100px;" alt="FIENI DANNIE"/><br>
 <sub><b>👨‍💼 FIENI Dannie Innocent Junior</b></sub><br>
 <sub>Chef de Projet & Coordination Générale</sub><br>
 <sub>📧 dij.fieni@ecole-ipssi.net</sub>
