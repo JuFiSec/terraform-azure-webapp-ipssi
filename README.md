@@ -93,7 +93,7 @@ Le projet a été développé de manière coordonnée sous la direction de **FIE
 
 ### 📊 Schéma d'Architecture Azure (Auto-généré)
 
-![Schéma Architecture Azure](docs/screenshots/Schema-architecture-rg-webapp-ipssi-dev.png)
+![Schéma Architecture Azure](docs/screenshots/Schema-architecture-rg-webapp-ipssi-dev.jpg)
 *Diagramme d'architecture automatiquement généré par Azure montrant tous les composants et leurs interconnexions*
 
 ### 🎯 Diagramme Conceptuel
